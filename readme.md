@@ -1,6 +1,5 @@
 # Slot Machine for Gamblers
 
-![slotmachine_stock](../node_modules/slotmachine.jpg)
 ## Slot Machine
 
 This is a simple Slot Machine game created in Python. It provides a basic interface for simulating a slot machine, allowing users to spin the reels and see the results. You can watch a demo of the project in action by following this link.
