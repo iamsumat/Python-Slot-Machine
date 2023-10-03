@@ -13,7 +13,7 @@ git clone https://github.com/iamsumat/project_name.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd slot-machine
+cd project_name
 ```
 3. Install python and run the program main.py:
 ```sh
