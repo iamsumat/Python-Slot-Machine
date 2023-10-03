@@ -23,7 +23,7 @@ python main.py
 ## Usage
 Follow the on-screen instructions to play the text-based slot machine!
 The results of each spin will be displayed on the screen.
-Enjoy the thrill of playing a virtual slot machine!
+Enjoy the thrill of playing a virtual slot machine created using Python!
 
 ## Contributing
 If you would like to contribute to this project, please follow these guidelines:
